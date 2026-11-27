@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">jetpackAndroid</string>
+    <string name="catalog_title">Campus</string>
+    <string name="location_to_confirm">Lieu à confirmer</string>
+    <string name="action_view">Voir</string>
+    <string name="action_book">Réserver</string>
+    <string name="event_full">Complet</string>
+    <plurals name="places_available">
+        <item quantity="one">%d place disponible</item>
+        <item quantity="other">%d places disponibles</item>
+    </plurals>
 </resources>
